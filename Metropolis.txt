@@ -1,49 +1,30 @@
 Metropolis
+
 by
+
 Thea von Harbou
 
 
 This book is not of today or of the future.
+
 It tells of no place.
+
 It serves no cause, party or class.
+
 It has a moral which grows on the pillar of understanding:
+
 "The mediator between brain and muscle must be the Heart."
+
 —T. v. H.
 
 
-~b{C:\Users\James Parrott\Downloads\Metropolis-E-PGA.jpg}
-
-
-TABLE OF CONTENTS
-~g{Ch1}Chapter I~/g
-Chapter II
-Chapter III
-Chapter IV
-Chapter V
-Chapter VI
-Chapter VII
-Chapter VIII
-Chapter IX
-Chapter X
-Chapter XI
-Chapter XII
-Chapter XIII
-Chapter XIV
-Chapter XV
-Chapter XVI
-Chapter XVII
-Chapter XVIII
-Chapter XIX
-Chapter XX
-Chapter XXI
-Chapter XXII
-Chapter XXIII
-Chapter XXIV
-Chapter XXV
 
 
 
-~c~t{Ch1}CHAPTER I
+
+
+~c~tCHAPTER I
+
 NOW the rumbling of the great organ swelled to a roar, pressing, like a rising giant, against the vaulted ceiling, to burst through it.
 
 Freder bent his head backwards, his wide-open, burning eyes stared unseeingly upward. His hands formed music from the chaos of the notes; struggling with the vibration of the sound and stirring him to his innermost depths.
@@ -278,6 +259,7 @@ On the plain chair before it, the embodiment of the great brain: the Master of M
 In this moment Freder was seized with the persistent idea that he would lose his reason if he had, once more, to hear the voice of Metropolis thus roaring to be fed. And, already convinced of the pointlessness of his quest, he turned from the spectacle of the light crazy city and went to seek the Master of Metropolis, whose name was Joh Fredersen and who was his father.
 
 ~cCHAPTER II
+
 THE brain-pan of the New Tower of Babel was peopled with numbers.
 
 From an invisible source the numbers dropped rhythmically down through the cooled air of the room, being collected, as in a water-basin, at the table at which the great brain of Metropolis worked, becoming objective under the pencils of his secretaries. These eight young men resembled each other as brothers, which they were not. Although sitting as immovable as statues, of which only the writing fingers of the right hand stirred, yet each single one, with sweat-bedewed brow and parted lips, seemed the personification of Breathlessness.
@@ -511,6 +493,7 @@ Joh Fredersen said, speaking rather softly:
 Slim bowed, waited, saluted and went. But he did not find the son of his great master again where he had left him. Nor was he destined to find him.
 
 ~cCHAPTER III
+
 THE man who had been Joh Fredersen's first secretary stood in a cell of the Pater-noster, the never-stopping passenger lift which, like a series of never-ceasing well-buckets, transsected the New Tower of Babel.—With his back against the wooden wall, he was making the journey through the white, humming house, from the heights of the roof, to the depths of the cellars and up again to the heights of the roof, for the thirtieth time, never moving from the one spot.
 
 Persons, greedy to gain a few seconds, stumbled in with him, and stories higher, or lower, out again. Nobody paid the least attention to him. One or two certainly recognised him. But, as yet, nobody interpreted the drops on his temples as being anything but a similar greed for the gain of a few seconds. All right—he would wait until they knew better, until they took him and threw him out of the cell: What are you taking up space for, you fool, if you've got so much time? Crawl down the stairs, or the first escape...
@@ -828,6 +811,7 @@ He fell back upon the cushions. The car turned in a gentle curve, round in anoth
 A rocket shot up and wrote in the sky above Metropolis: Yoshiwara.
 
 ~cCHAPTER IV
+
 THERE was a house in the great Metropolis which was older than the town. Many said that it was older, even, than the cathedral, and, before the Archangel Michael raised his voice as advocate in the conflict for God, the house stood there in its evil gloom, defying the cathedral from out its dull eyes.
 
 It had lived through the time of smoke and soot. Every year which passed over the city seemed to creep, when dying, into this house, so that, at last it was a cemetery—a coffin, filled with dead tens of years.
@@ -1195,6 +1179,7 @@ Joh Fredersen screwed up his mouth.
 He entered the brain-pan of the New Tower of Babel. His first glance fell upon the clock. He stepped to the table and stretched out his hand to the little blue metal plate.
 
 ~cCHAPTER V
+
 THE man before the machine which was like Ganesha, the god with the elephant's head, was no longer a human being. Merely a dripping piece of exhaustion, from the pores of which the last powers of volition were oozing out in large drops of sweat. Running eyes no longer saw the manometer. The hand did not hold the lever—It clawed it fast in the last hold which saved the mangled man-creature before it from falling into the crushing arms of the machine.
 
 The Pater-noster works of the New Tower of Babel turned their buckets with an easy smoothness. The eye of the little machine smiled softly and maliciously at the man who stood before it and who was now no more than a babel.
@@ -1544,6 +1529,7 @@ She saw a man sitting on the edge of the trap-door and saw his smile.
 Then it was as though she were extinguished, and she plunged into nothing...
 
 ~cCHAPTER VI
+
 THE proprietor of Yoshiwara used to earn money in a variety of ways. One of them, and quite positively the most harmless, was to make bets that no man—be he never so widely travelled—was capable of guessing to what weird mixture of races he owed his face. So far he had won all such bets, and used to sweep in the money which they brought him with hands, the cruel beauty of which would not have shamed an ancestor of the Spanish Borgias, the nails of which, however, showed an inobliterable shimmer of blue; on the other hand, the politeness of his smile on such profitable occasions originated unmistakably in that graceful insular world, which, from the eastern border of Asia, smiles gently and watchfully across at mighty America.
 
 There were prominent properties combined within him which made him appear to be a general representative of Great Britain and Ireland, for he was as red-haired, chaff-loving and with as good a head for drink as if his name had been McFosh, avaricious and superstitious as a Scotsman and—In certain circumstances, which made it requisite, of that highly bred obliviousness, which is a matter of will and a foundation stone of the British Empire. He spoke practicality all living languages as though his mother had taught him to pray in them and his father to curse. His greed appeared to hail from the Levant, his contentment from China. And, above all this, two quiet, observant eyes watched with German patience and perseverance.
@@ -1757,6 +1743,7 @@ Then he shook his head, stepped into the car and said:
 "Ninetieth block...."
 
 ~cCHAPTER VII
+
 "WHERE is Georgi?" asked Freder, his eyes wandering through Josaphat's three rooms, which stretched out before him—beautiful, with a rather bewildering super-abundance of armchairs, divans and silk cushions, with curtains which goldenly obscured the light.
 
 "Who?" asked Josaphat, listlessly. He had waited, had not slept and his eyes stood excessively large in his thin, almost white face. His gaze, which he did not take from Freder, was like hands which are raised adoringly.
@@ -2042,6 +2029,7 @@ He waved the cap which Freder had worn, in farewell to the room, and burst out i
 Then he went out. Slim followed him.
 
 ~cCHAPTER VIII
+
 FREDER walked UP the steps of the cathedral hesitatingly; he was walking up them for the first time. Hel, his mother, used often to go to the cathedral. But her son had never yet done so. Now he longed to see it with his mother's eyes and to hear with the ears of Hel, his mother, the stony prayer of the pillars, each of which had its own particular voice.
 
 He entered the cathedral as a child, not pious, yet not entirely free from shyness—prepared for reverence, but fearless. He heard, as Hel, his mother the Kyrie Eleison of the stones and the Te Deum Laudamus—the De Profundis and the Jubilate. And he heard, as his mother, how the powerfully ringing stone chair was crowned by the Amen of the cross vault...
@@ -2433,6 +2421,7 @@ Freder smiled. Then he began to laugh. He threw himself into a chair and laughed
 Joh Fredersen's eyes were upon him.
 
 ~cCHAPTER IX
+
 THE aeroplane which had carried Josaphat away from Metropolis swam in the golden air of the setting sun, rushing towards it at a tearing speed, as though fastened to the westward sinking ball by metal cords.
 
 Josaphat sat behind the pilot. From the moment when the aerodrome had sunk below them and the stone mosaic of the great Metropolis had paled away into the inscrutable depths, he had not given the least token that he was a human being with the faculty for breathing and moving. The pilot seemed to be taking a pale grey stone, which had the form of a man, with him as freight and, when he once turned around, he looked full into the wide open eyes of this petrified being without meeting a glance or the least sign of consciousness.
@@ -2542,6 +2531,7 @@ In the far distance a voice was to be heard, calling a name, long drawn out, aga
 The stars stood glorious above the world. The distant voice was silent. The young girl looked down upon the man whose head lay in her lap. In her eyes was the never sleeping watchfulness which one sees in the eyes of animals and of mothers.
 
 ~cCHAPTER X
+
 WHENEVER Josaphat tried, during the days which followed, to break through the barrier which was drawn around Freder, there was always a strange person there, and always a different one, who said, with expressionless mien:
 
 "Mr. Freder cannot receive anybody. Mr. Freder is ill." But Freder was not ill—at least not as illness generally manifests itself among mankind. From morning until evening, from evening until morning, Josaphat watched the house, the crown of the tower of which was Freder's flat. He never saw Freder leave the house. But for hours at a time he saw, during the night, behind the white-veiled windows, which ran the breadth of the wall, a shadow wandering up and down—and saw at the hour of twilight, when the rooves of Metropolis still shone, bathed in the sun, and the darkness of the ravines of its streets was flooded out by streams of cold light, the same shadow, a motionless form, standing on the narrow balcony which ran around this, almost the highest house in Metropolis.
@@ -2773,6 +2763,7 @@ And from the cloak of the great Babylon, the demons freed themselves, come to li
 "Death nodded with satisfaction, turned around and set off, on his way through the great Metropolis."
 
 ~cCHAPTER XI
+
 "YES," said Josaphat hoarsely, "but that was a dream..."
 
 "Of course it was a dream...And they say dreams are bubbles, don't they? But just listen to this, Josaphat...I emerged from this dream back into reality with a feeling of sadness, which seemed to hack me, as with a knife, from head to foot. I saw Maria's brow, that white temple of goodness and virginity, besmirched with the name of the great harlot of Babylon. I saw her send Death out over the city. I saw how abominations upon abominations loosened themselves from about her and fluttered away, swarming through the city—plague spirits, messengers of evil before the path of Death. I stood out there and looked over at the cathedral, which seemed to me to be desecrated and soiled. Its doors stood open. Dark, human snakes were creeping into the cathedral, and collecting themselves upon the steps. I thought: Perhaps, among all those pious people, is my Maria too...I said to my father: 'I wish to go to the cathedral...' He let me go. I was no captive. As I reached the cathedral the organ was thundering like the Trump of Doom. Singing from a thousand throats. Dies Irae...The incense clouded above the head of the multitude, which was kneeling before the eternal God. The crucifix hovered above the high altar, and, in the light of the restless candles, the drops of blood on the thorn-crowned brow of the son of Mary seemed to come to hie, to run. The saints in the pillar-niches looked at me sadly, as though they knew of my evil dream.
@@ -2957,6 +2948,7 @@ The eyes of Josaphat and Freder met.
 And, for the first time this night, there was something like hope in the ring of his voice.
 
 ~cCHAPTER XII
+
 IT was one hour after midnight.
 
 Joh Fredersen came to his mother's house.
@@ -3124,6 +3116,7 @@ It seemed as though he wanted to stretch out his hand to her, but, half-way he l
 "For you both," said the mother, "for you both, Joh..." He stood in silence and the struggle of his heart was in his face. Then, without giving his mother another look, he turned around and went out of the house, over which the walnut tree rustled.
 
 ~cCHAPTER XIII
+
 IT was midnight and no light was burning. Only through the window there fell the radiance of the city, lying like a pale gleam upon the face of the girl who sat, leaning back against the wall, without moving, with closed eyelids, her hands in her lap.
 
 "Will you never answer me?" asked the great inventor.
@@ -3157,6 +3150,7 @@ He heard the soft, soft weeping of the girl. He fell, where he stood, upon his k
 And then the hands of Joh Fredersen seized the throat of Rotwang, the great inventor...
 
 ~cCHAPTER XIV
+
 A VAULT, like the vault of a sepulchre—human heads so closely crowded as to produce the effect of clods of a freshly ploughed field. All faces turned to one point: to the source of a light, as mild as God. Candles burnt with sword—Like flames. Slender, lustrous swords of light stood in a circle around the head of a girl.
 
 Freder stood pressed into the background of the arch—so far from the girl that he perceived of her face nothing but the shimmer of its pallor, the wonder of the eyes and the blood-red mouth. His eyes hung upon this blood-red mouth as though it were the middle point of the earth, to which, by eternal law, his blood must pour down. Tantalising was this mouth...All the seven Deadly Sins had such a mouth...The woman on the scarlet-coloured beast, who bore the name Babylon on her forehead, had such a mouth...
@@ -3401,6 +3395,7 @@ Above the gigantic city, above the slumbering city, the monster-voice roared: Da
 A barely perceptible trembling ran through the New Tower of Babel, as if the earth which bore it were shuddering, frightened by a dream, betwixt sleeping and waking....
 
 ~cCHAPTER XV
+
 MARIA did not dare to stir. She did not even dare to breathe She did not close her eyes for quaking fear that, between the lowering and raising of her eyelids, a fresh horror could come upon her and seize her.
 
 She did not know how much time had elapsed since the hands of Joh Fredersen had closed around the throat of Rotwang, the great inventor. The two men had been standing in the shadow; and yet it seemed to the girl as if the outline of both of their forms had remained behind in the darkness, in fiery lines: The bulk of Joh Fredersen, standing there, his hands thrown forward, like two claws;—Rotwang's body, which hung in these claws, and which was dragged away—pulled forth—through the frame of the door, which closed behind them both.
@@ -3704,6 +3699,7 @@ Behind her the machine began to race. Above the deep mysteries of its delicate j
 The heart of Metropolis, Joh Fredersen's city, began to run up a temperature, seized by a deadly illness...
 
 ~cCHAPTER XVI
+
 "FATHER—!!"
 
 Joh Fredersen's son knew quite well that his father could not hear him, for he, the son, was standing in the lowest part: of the pedestal of the New Tower of Babel, whither the twitching pulse of the street had thrown him, and his father was high, high, above the boiling of the city, the untouched brain, in the cool brain-pan. But yet he shouted for him and had to shout, and his shout, itself, was a cry for help and an accusation.
@@ -3911,6 +3907,7 @@ But a shadow ran past the windows of the white machine-cathedral. It ran, ducked
 It did not penetrate into the consciousness of the fugitive that all the machines were standing still because the heart, the unguarded heart of Metropolis, under the fiery lash of the "12," had raced itself to Death.
 
 ~cCHAPTER XVII
+
 MARIA felt something licking at her feet, like the tongue of a great, gentle dog. She bent down to fumble for the animal's head, and felt that it was water into which she was groping.
 
 From where did the water come? It came silently. It did not splash. Neither did it throw up waves. It just rose—unhurriedly, yet persistently. It was not colder than the air round about. It lapped about Maria's ankles.
@@ -4034,6 +4031,7 @@ The children obeyed.
 "I am going to tell you a story," said Maria.
 
 ~cCHAPTER XVIII
+
 "LITTLE sister..."
 
 "Yes?"
@@ -4315,6 +4313,7 @@ Freder did not answer.
 "Come," he said. And he raised her up in his arms and carried her out. The children followed them like a flock of little lambs, and Grot had no alternative than to run along in the tracks of the tiny feet, whither the little, tugging hands drew him.
 
 ~cCHAPTER XIX
+
 THEY had taken the children into the house and Freder's eyes sought Maria, who was kneeling in the street, among the last remaining children, consoling them, and bestowing her loving smile upon weeping and bewildered eyes.
 
 Freder ran across to them and carried Maria into the house.
@@ -4454,6 +4453,7 @@ She no longer saw how, at the double opening of the street which led to the cath
 She lay in deep oblivion, in the great, mild solemnity of death, and from the depths of her unconsciousness she was not awakened even by the roaring voice of the mob which was erecting a bonfire for the witch, before the cathedral.
 
 ~cCHAPTER XX
+
 "FREDER—!!! Grot—!!! Freder—!!!"
 
 Josaphat shouted so that his voice cracked, and raced with the bounds of a harried wolf, through passages, across steps of the great pump-works. His shouts were not heard. In the machine rooms were wounded machines in agony, wanting to obey and not being able. The door was closed. Josaphat hammered against it with his fists, with his feet. It was Grot who opened it to him, revolver in hand.
@@ -4669,6 +4669,7 @@ Freder's bonds broke. He fell over on his face among the feet of the dancers.
 And the last he saw of the girl, while her gown and hair stood blazing around her as a mantle of fire, was the loving smile and the wonder of her eyes—and her mouth of deadly sin, which lured among the flames: "Dance with me, my dearest! Dance with me—!"
 
 ~cCHAPTER XXI
+
 ROTWANG awoke; but he knew quite well he was dead. And this consciousness filled him with the deepest satisfaction. His aching body no longer had anything to do with him. That was perhaps the last remains of life. But something worried him deeply, as he raised himself up and looked around in all directions: Hel was not there.
 
 Hel must be found...
@@ -4720,6 +4721,7 @@ And all those who had been dancing in wild rings around the bonfire of the witch
 And they all heard how, in the shouted answer: "I am coming, Maria, I am coming—!" there cried out all the relief and all the despair which can fill the heart of a man to whom Heaven and Hell are equally near.
 
 ~cCHAPTER XXII
+
 JOH FREDERSEN stood in the dome-room of the New Tower of Babel, waiting for Slim. He was to bring him news of his son.
 
 A ghostly darkness lay upon the New Tower of Babel. The light had gone completely out, gone out as though it had been killed—at the moment when the gigantic wheel of the Heart-machine of Metropolis came free from its structure with a roar as from the throats of a thousand wounded beasts, and, still whirling around, was hurled straight up at the ceiling, to strike it with a shattering crash, to bound back, booming the while like a gong as large as the heavens and to crash down upon the splintered ruins of the erstwhile masterpiece of steel, to remain lying there.
@@ -4923,6 +4925,7 @@ Then Joh Fredersen bent down, so low that his forehead touched the stones of the
 As his hands loosened from his head, all who stood around him saw that Joh Fredersen's hair had turned snow-white.
 
 ~cCHAPTER XXIII
+
 "BELOVED—!" said Freder, Joh Fredersen's son.
 
 It was the softest, the most cautious call of which a human voice is capable. But Maria answered it just as little as she had answered the shouts of despair with which the man who loved her had wished to re-awaken her to consciousness of herself.
@@ -4984,6 +4987,7 @@ His soul spoke within him as he reeled along:
 "I will go home and look for my mother."
 
 ~cCHAPTER XXIV
+
 "FREDER...?" said the soft Madonna-voice.
 
 "Yes, you beloved! Speak to me! Speak to me!"
@@ -5041,6 +5045,7 @@ Involuntarily he raised his eyes to become aware, for the first time, of whither
 "Amen," said the girl at his heart.
 
 ~cCHAPTER XXV
+
 JOH FREDERSEN came to his mother's house.
 
 Death had passed over Metropolis. Destruction of the world and the Day of Judgment had shouted from out the roars of explosion, the clanging of the bells of the cathedral. But Joh Fredersen found his mother as he always found her: in the wide, soft chair, by the open window, the dark rug over the paralysed knees, the great Bible on the sloping table before her, in the beautiful old hands, the figured lace at which she was sewing.
